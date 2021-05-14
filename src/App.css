@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: #C2E7D9;
+    color: #0D0221;
+}
+
+.links{
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: 700;
+    color: #0D0221;
+}
+
+.links:hover{
+    color: #26408B;
+    padding: 10px;
+    border-bottom: 5px solid #A6CFD5;
+}
