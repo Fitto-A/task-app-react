@@ -6,4 +6,4 @@ Im not using Hooks, its made with Classes and Lifecycle Methods.
 
 
 Page:
-https://fitto-a.github.io/
+https://fitto-a.github.io/task-app-react/
